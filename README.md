@@ -18,7 +18,7 @@ Step by Step guide to building AMIs:
   - Ensure the Github repo works and passes all tests and add to Berksfile with this syntax for instance:
 
   ```
-  cookbook 'node', git: 'git@github.com:j2020v/chef-node-cookbook.git'
+  cookbook 'node', git: 'git@github.com:j2020v/chef-nginx-cookbook.git'
 ```
 4. Created .json packer file  
 
